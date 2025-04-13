@@ -3,6 +3,7 @@
 This project, completed as part of the Portfolio Management course at Frankfurt School of Finance and Management (Fall 2024), explores hedge fund performance, international momentum strategies, and custom portfolio construction using real-world data and empirical financial models.
 
 ---
+📌 This project was created as part of an academic course at Frankfurt School of Finance and Management. It is shared here for educational and portfolio purposes only.
 
 ### 🏫 Conducted at  
 **Frankfurt School of Finance and Management**  
