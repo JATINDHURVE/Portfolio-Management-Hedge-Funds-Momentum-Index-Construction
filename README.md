@@ -1,23 +1,23 @@
-# 📈 Portfolio-Management-Hedge-Funds-Momentum-Index-Construction
+# Portfolio-Management-Hedge-Funds-Momentum-Index-Construction
 
 This project, completed as part of the Portfolio Management course at Frankfurt School of Finance and Management (Fall 2024), explores hedge fund performance, international momentum strategies, and custom portfolio construction using real-world data and empirical financial models.
 
 ---
-📌 This project was created as part of an academic course at Frankfurt School of Finance and Management. It is shared here for educational and portfolio purposes only.
+This project was created as part of an academic course at Frankfurt School of Finance and Management. It is shared here for educational and portfolio purposes only.
 
-### 🏫 Conducted at  
+### Conducted at  
 **Frankfurt School of Finance and Management**  
 Fall 2024 — Group Assignment for Portfolio Management
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 - `PM_Group-18_Assignment.ipynb`: A comprehensive Jupyter notebook implementing all four parts of the project, including data analysis, modeling, and visualization.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 ### Part 1: Hedge Fund Analysis (30%)
 - Estimate **CAPM** and **Four-Factor Model** regressions on hedge fund returns.
@@ -51,7 +51,7 @@ Fall 2024 — Group Assignment for Portfolio Management
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠Technologies Used
 
 - **Python** (Jupyter Notebook)
 - `pandas`, `numpy`, `matplotlib`, `statsmodels`, `scipy`
@@ -59,7 +59,7 @@ Fall 2024 — Group Assignment for Portfolio Management
 
 ---
 
-## 📈 Key Outcomes
+## Key Outcomes
 
 - Insightful comparison of hedge fund strategies via factor models
 - Momentum strategy tested across international markets
